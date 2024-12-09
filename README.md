@@ -4,8 +4,6 @@
 
 # HGIC: A Hand Gesture Based Interactive Control System for Efficient and Scalable Multi-UAV Operationss
 
-Mengsha Hu, Jinzhou Li, Runxiang Jin, Chao Shi, Lei Xu, Rui Liu
-
 ![example](img/example.png)
 
 This repository contains the code for the paper [HGIC](https://arxiv.org/abs/2403.05478)
